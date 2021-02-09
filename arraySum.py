@@ -1,8 +1,8 @@
-'''
-This call will give the sum of the array in
-'''
 import sys
 
+''' 
+This function will give a sum of arrary
+''' 
 def array_sum(array_num):
     sum = 0
     for val_i in array_num:
