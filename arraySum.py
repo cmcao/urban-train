@@ -17,3 +17,4 @@ print("Total sum of list is:",array_sum(list))
 print(sys.version)
 
 print("hello world")
+print("To-do update code) // 8-24-2022
